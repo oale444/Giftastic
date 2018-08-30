@@ -50,4 +50,3 @@ $(document).on('click', '.searchBTN', function () {
             })
         })
 })
-
