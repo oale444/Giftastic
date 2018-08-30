@@ -1,10 +1,10 @@
 # Giftastic
 A basic app just to showcase apis.
 
-Built using html, bootstrap, css, jQuery, Giphy api
+Built using html, css, jQuery, bootstrap, Giphy api, googlefontapi
 
 # How to use
-Click on one of the buttons to populate the gifs, or add a gif. 
+Add a gif and click the button to populate it.
 
 # Demo
 https://oale444.github.io/Giftastic/
