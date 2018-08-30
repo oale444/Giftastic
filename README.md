@@ -5,3 +5,6 @@ Built using html, bootstrap, css, jQuery, Giphy api
 
 # How to use
 Click on one of the buttons to populate the gifs, or add a gif. 
+
+# Demo
+https://oale444.github.io/Giftastic/
