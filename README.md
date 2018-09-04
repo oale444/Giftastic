@@ -9,4 +9,3 @@ Add a gif and click the button to populate it.
 # Demo
 https://giftastic.netlify.com/
 
-<img src="gif2.png">
